@@ -1,0 +1,44 @@
+Automation LifeCyle
+Menentukan Scope Test Automation
+-Pada tahap ini,kalian akan memutuskan modul/flow aplikasi mana yang dapt dimekannisasi dan mana yang tidak.
+-Kasus uji mana yang dapat dimekanisasi dan bagaimana cara membuatnya variabel seperti biaya,tim, dan kemampuan juga harus di pertimbangkan.(Ditentukan oleh senior QA)
+
+Automaion Test Scope
+*API Test
+* Web UI Test
+*Mbolie UI Test
+*Database Test
+*Perfomance Test
+
+Automation TEst Scope
+Tidak semua scenario bisa di automasi
+Berikut adalah hal-hal yang perlu di pertimbangkan saat emngindentifikasi automation scoppe;
+
+-Modul/fitur/scenario apa saja yang dapat diotomatisasi?
+-Berapa total biaya efektif dan ukura tim?
+-Tes apa saja yaaang harus diotomatisasi, pendekatan apa yang harus diambil?
+-Kompleksitas,data avaiblebility,infrastruktur.
+
+Memilih tools yang tepat
+memilih perangkat tool otomatisasi yang benar adalah tahap dasar unutk STLC karena penguijan sangat bergantung pada automation tools. ketika kalian mencari alat yang tepat, anda harus mengingat hal-hal berikut;
+-Budget & fleksibilitas perusahaan
+-PEngetahuan tentang aalt/code yang akan digunakan
+-Plan, design dan strategy
+
+Ini adalah tahap palisng dsar dari prosedur STLC yang mencirikan cara mendekati dan mencapai tujuan mekanisasi testing, selama tahap ini kalia membuat prosedur dan rencana. saat membuat ini kita perlu mempertimbangkan hal berikut.
+-Tools yang dipilih
+-Memahami kekurangan dan kelebihan dari tools atau framework yang digunakan
+-Membuat rangkaian/diagram alir dan juga mencoba menggunakan tools tersebut
+-Membuat test scenario dan test case(modul selanjutnya)
+
+Set-up Test Environment
+-Pada fase ini, disiapkan device dan software yang akan membantu melakukn eksekuasi test script.berikut ini adalah hal-hal yang perlu disiapkan pada tahap set-up
+-Test data
+-Multiple Browser
+-Automation Framework
+-Tool configuration and license
+-Software environment seperti staging dan production
+
+Test script & eksekusi
+-Setelah melakukan set-up environment. maka script automation dapat dijalankan. biasnya dijalankan saat ada rilis versi baru, harian atau permintaan dari developer/client
+-Jika saat proses eksekusi terjadi error, maka kalian perlu melaporkan kepada tim developer atau melakukan debugging terlebih dahulu, cara melaporka bug yang baik ada di modul bug advocate
