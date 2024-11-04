@@ -1,0 +1,25 @@
+Automation Testing
+-Automation Testing adalah suatu proses pengujian yang di lalkukan dengan memakai software khusus untu membnatu tester
+Automation test memungkinkan developer dan QA untuk menguji aplikasi secara otomatis dan menyerderhanalan prosoes pengujian.Dengan alat pengujian otomatis, pengujian dapat dilakukan lebih cepat dan lebih efisien, dan developer dapat
+fokus pada development aplikasi darpada tugas pengujjian manual yang memakan waktu.
+
+Automation Testing
+Kelebihan Automated Testing
+*Dapat menemukan bug lebih banyak dari manual tester. Script dapat mencari lebih dalam, sehingga dapat menemukan bug yang tester tidak dapat temukan.
+*Kecepatan dan efisiensi. Script lebih cepat dari tester, sehingga dapat cepat selesai dalam menemukkan bug.
+\*Test Resable. Jika selalu mendapatkan update dan perubahan masing-masing unit/feature,maka tidak perlu menulis ulang script setiap saat dan dapat digunaknan kembali pada regression testing.
+
+Manual Testing
+-QA melakukan Testing dilakukakn dengan cara mengulangi langkah-langkah pengujian yang sama, sehingga perangkat lunak dapat duiji secara menyeluruh dan akurat.
+
+Manual Testing
+-Kelebihan manual testing
+
+- Mendapatkan Visual Feedback. Tools dan Script tidak dapat membantu dala memberikan opini maupun inputmengenai tampilan UI/UX.
+  *Unsur Manusia. Bisa mendapatkan feedback dari orang secara langsung sehingga mengetahui apa yag user suka dan tidak suka
+  *Lebih Murah Dalam Proyek Jangkan Pendek. jijka hanya melakukan tes aplikasi sederhana yang tidak terlalu banyak updates maka manual testing tidak perlu menggunakan tools ataupun software yang mahal.
+- Manual Testing
+  Kekurangan Manual Testing
+  *Kurang teliti daripada automation testing. kadang adanya human error atau ketidaktelitian, sehingga jika menggunakan automation testing akan mengurangi bug yang akan terawat.
+  *Not reusable. Jika menemukan banyaknya peruubahan maka harus melakukan pengecekan secara manual kembali dari awal agar memastikan perubahan baru tidak akan merusak aplikasi yang sudah jadi.
+  \*Kelelahan terhadap tester. Jika QA tester sudah sangat familiar dengan aplikasi yang selalu dia tes secara terus menerus sehingga membuat QA tester sangat memahami alur dari aplikasi tersebut. Sehingga hal ini akan menyebabkan kelelahan dan kesalahan makan melewatkan beberapa hal dan membuat kesalahan.
